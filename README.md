@@ -13,7 +13,7 @@ Workspace:
 
 ## Description
 
-MADProject is an Android application that tracks your GPS location in real time and enriches it with weather data from OpenWeatherMap. It allows users to save, view, and delete location records locally, visualize them on an interactive OpenStreetMap, and share reports through Firebase Realtime Database. Compared to existing apps like Google Maps or Strava, MADTracking focuses on lightweight personal location logging with integrated weather context and cloud reporting — without requiring a complex account setup.
+MADProject is an Android application that tracks your GPS location in real time and enriches it with weather data from OpenWeatherMap. It allows users to save, view, and delete location records locally, visualize them on an interactive OpenStreetMap, and share reports through Firebase Realtime Database. Compared to existing apps like Google Maps or Strava, MADProject focuses on lightweight personal location logging with integrated weather context and cloud reporting — without requiring a complex account setup.
 
 \---
 
